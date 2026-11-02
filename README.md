@@ -1,5 +1,17 @@
 # 💫 About Me:
- I'm a Senior Mobile Engineer focused on building reliable, high-performance mobile experiences.<br>
+ Mobile products often become difficult to change before users notice anything is wrong. Performance starts slipping, releases take longer, and small changes carry more risk.
+
+I’m a Senior Mobile Engineer who builds mobile and web experiences for enterprise products that need to stay reliable as they grow.
+
+I work on mobile, web, and backend engineering problems where product quality and user experience have direct consequences. I partner with product, design, and engineering teams to turn requirements into systems that are easier to maintain and improve over time.
+
+My work includes React Native, web application development, backend API development, mobile architecture, and performance optimization. I also use AI where it removes repetitive work and speeds up delivery; technical decisions and long-term ownership still belong with the team.
+
+I write about enterprise application development, developer productivity, and the trade-offs behind scalable mobile, web, and backend systems.
+
+If you’re building, modernizing, or troubleshooting a mobile, web, or API-driven product, message me with the problem you’re trying to solve.
+
+.<br>
 
 
 ## 🌐 Socials:
